@@ -1,6 +1,7 @@
 .Statistics {
   position: relative;
   display: flex;
+  margin-top: 10px;
 }
 
 .estimate {

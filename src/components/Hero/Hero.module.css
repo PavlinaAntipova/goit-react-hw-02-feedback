@@ -1,6 +1,6 @@
 .Hero {
   position: relative;
-  padding-top: 50px;
+  padding-top: 10px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -8,7 +8,8 @@
 
 .titleBox {
   position: absolute;
-  left: 50%;
+  top: 15%;
+  left: 40%;
   z-index: 3;
 }
 

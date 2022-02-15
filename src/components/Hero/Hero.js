@@ -14,7 +14,7 @@ function Hero() {
           className={s.img}
           src="https://cdn.pixabay.com/photo/2018/10/19/16/46/coffee-3759005_1280.jpg"
           alt="coffee"
-          width="460"
+          width="360"
         />
       </div>
     </div>
